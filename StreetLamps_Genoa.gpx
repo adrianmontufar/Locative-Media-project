@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="37.841871" lon="-122.27216">
+  <time>2022-10-30T22:18:48Z</time>
+  <name>Lamp post 1</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.8422" lon="-122.27223">
+  <time>2022-10-30T22:20:58Z</time>
+  <name>LP 2</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.8425" lon="-122.2723">
+  <time>2022-10-30T22:22:45Z</time>
+  <name>LP 3</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.842493" lon="-122.27248">
+  <time>2022-10-30T22:23:53Z</time>
+  <name>LP 4</name>
+  <desc>Labeled 53329</desc>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.842804" lon="-122.27236">
+  <time>2022-10-30T22:25:11Z</time>
+  <name>LP 5</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.843181" lon="-122.27244">
+  <time>2022-10-30T22:28:48Z</time>
+  <name>LP 6</name>
+  <desc>Numbered 12729 OR 110110617</desc>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.843526" lon="-122.27251">
+  <time>2022-10-30T22:31:44Z</time>
+  <name>LP 7</name>
+  <desc>Numbered 24217 OR 110110621 OR 1423</desc>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.843958" lon="-122.2726">
+  <time>2022-10-30T22:34:03Z</time>
+  <name>LP 8</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.843913" lon="-122.273">
+  <time>2022-10-30T22:34:55Z</time>
+  <name>LP 9</name>
+  <desc>Numbered 110110622</desc>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.844163" lon="-122.27265">
+  <time>2022-10-30T22:37:05Z</time>
+  <name>LP 10</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.844485" lon="-122.27273">
+  <time>2022-10-30T22:38:49Z</time>
+  <name>LP 11</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.84453" lon="-122.27317">
+  <time>2022-10-30T22:39:25Z</time>
+  <name>LP 12</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.844838" lon="-122.2728">
+  <time>2022-10-30T22:40:46Z</time>
+  <name>LP 13</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.844062" lon="-122.27199">
+  <time>2022-10-30T22:43:24Z</time>
+  <name>LP 14</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.843207" lon="-122.27225">
+  <time>2022-10-30T22:45:58Z</time>
+  <name>LP 15</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.843262" lon="-122.27187">
+  <time>2022-10-30T22:47:14Z</time>
+  <name>LP 16</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.843172" lon="-122.27269">
+  <time>2022-10-30T22:48:43Z</time>
+  <name>LP 17</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+<wpt lat="37.842528" lon="-122.27204">
+  <time>2022-10-30T22:52:11Z</time>
+  <name>LP 18</name>
+  <sym>http://maps.me/placemarks/placemark-red.png</sym>
+</wpt>
+</gpx>
