@@ -30,8 +30,8 @@
 var map = new mapboxgl.Map({
   container: 'map', // container id
   style: 'mapbox://styles/adrianmontufar/cl94f9eed002914s8alos4d69', // stylesheet location
-  center: [-122.27, 37.84], // starting position
-  zoom: 15 // starting zoom
+  center: [-122.272, 37.843], // starting position
+  zoom: 16 // starting zoom
 });
 // map.on(functions) at the bottom!
 map.on('load', function(){
